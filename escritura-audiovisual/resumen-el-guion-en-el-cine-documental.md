@@ -1,6 +1,6 @@
 # Resumen
 
-*EL GUION EN EL CINE DOCUMENTAL por Patricio Guzmán *
+*EL GUION EN EL CINE DOCUMENTAL por Patricio Guzmán*
 
 ## Introducción
 Patricio Guzmán aborda la idea de que algunas personas creen que el guión documental es solo una pauta o una escritura momentánea sin valor intrínseco, pero él argumenta que es tan necesario como en el género de ficción.
