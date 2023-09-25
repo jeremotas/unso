@@ -44,3 +44,64 @@ Patricio Guzmán aborda la idea de que algunas personas creen que el guión docu
 * La voz del autor se ha convertido en un recurso más libre y cercano a los realizadores.
 
 En resumen, el artículo de Patricio Guzmán aborda la importancia del guión en el cine documental, desde la idea inicial hasta la reescritura en la sala de montaje, y explora diversos recursos narrativos utilizados en este género. También destaca la evolución de la voz en OFF y las entrevistas en el cine documental, así como el uso de la voz del autor
+
+## Cuadro sinóptico
+
+### I. Introducción
+   - Definición del guión documental.
+   - Importancia del guión en el cine documental.
+   - Comparación con guiones de ficción.
+   
+### II. Primeras Reflexiones
+   - Debate sobre guión cerrado vs. guión abierto.
+   - Necesidad de equilibrio entre planificación y espontaneidad.
+   - El montaje como parte integral del guión documental.
+   
+### III. El Valor de una Escritura Tan Larga
+   - Pasos en la creación del guión documental.
+   - Duración del proceso de escritura en comparación con la producción.
+   
+### IV. La Idea, la Historia
+   - Importancia de una idea que proporcione una historia.
+   - Características de una buena idea.
+   - La sinopsis como herramienta para visualizar y presentar la idea.
+   
+### V. La Investigación Previa
+   - Convertirse en un especialista amateur del tema.
+   - Combinación de investigación de escritorio y en el campo.
+   - El documental como una forma intermedia entre el periodismo y el ensayo literario.
+   
+### VI. Localización de los Escenarios y Personajes
+   - Cambios y adaptaciones basados en la realidad.
+   - Importancia de encontrar personajes auténticos y carismáticos.
+   - Compromiso ético del director con los personajes.
+   
+### VII. Los Recursos Narrativos
+   - Enumeración y clasificación de los recursos narrativos.
+   - Destaque de los personajes como elementos fundamentales.
+   - El equilibrio entre acción, descripción y entrevistas.
+   
+### VIII. La Acción
+   - El desafío de mostrar la acción en documentales.
+   - Uso de imágenes complementarias para representar acciones.
+   - Evaluación de la calidad de los personajes basada en sus acciones.
+   
+### IX. Preparación del Rodaje
+   - El trabajo de guión como proceso prospectivo.
+   - Mantener un equilibrio entre lo nuevo y lo previsto.
+   - Ajustes presupuestarios según las necesidades.
+   
+### X. El Guion Final Se Reescribe en la Mesa de Montaje
+   - Continuidad del trabajo de guión en la sala de montaje.
+   - Adaptación de la estructura del guión a partir de los resultados del rodaje.
+   - Mantenimiento de elementos de calidad del material original.
+   
+### XI. El Narrador, las Entrevistas
+   - Evolución del uso de la voz en off y entrevistas en documentales.
+   - Importancia de entrevistas no convencionales.
+   - La voz del autor como recurso narrativo.
+   
+### XII. La Voz del Autor
+   - El uso de la voz del autor para contar la historia.
+   - Ejemplos de directores que narran sus propias obras.
+   - Mayor libertad en la utilización de la voz en off
