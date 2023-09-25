@@ -12,7 +12,7 @@ Patricio Guzmán aborda la idea de que algunas personas creen que el guión docu
 ## El valor de una escritura tan larga
 * Se destaca la importancia de la escritura del guión, que abarca un período de siete meses o más, en comparación con los nueve meses de producción de un documental típico de 52 minutos.
 
-## La idea, la historia:
+## La idea, la historia
 * La búsqueda y el hallazgo de una idea son fundamentales para una película documental.
 * Una idea debe proponer un relato o desarrollo potencial de una historia.
 * Se menciona la importancia de la sinopsis, que concreta la idea y permite la ejecución del proyecto.
