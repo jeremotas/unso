@@ -2,7 +2,12 @@
 
 1. 
   Imagen generadora: Personaje desde atrás y desde abajo entrando a la universidad visualizada como un gran monstruo.
-  Tema: el ingreso a la universidad
+  Tema: Superación 
+  Premisa: La superación rompe los estigmas
+
+  *Posibles temas:* La soledad / Vergüenza / Introversion / Toma de responsabilidad / Crecer / Estigmatizacion / Inseguridad / Superación / Pertenencia 
+
+Stand and deliver (peli)
 
 2. Personaje
 
