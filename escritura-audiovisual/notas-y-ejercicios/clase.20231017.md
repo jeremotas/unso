@@ -15,3 +15,5 @@ Para la semana que viene:
 +2 clases. Sinopsis.
 + Documental videojuego.
 + Tener una referencia de videojuego / serie. Musica. Banda. Estetica visual. 
+
+
