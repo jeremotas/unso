@@ -30,3 +30,17 @@ intercambiar cartas
 mas jugadores
 colores por jugador
 3 en linea ortogonal
+
+
+### 2023-11-02
+Nombre: Trichón
+
+**IDEA**
+Ciclo retro posi / nega: suma dos cartas más (el que sumo punto o el que perdio punto).
+Cambia el juego de azaroso a más estratégico en cada momento del juego.
+
+En la prueba sienten que es timing, suerte, no que están desarrollando una estrategia.
+
+Fin más corto.
+Mazo de 40.
+Quitar numeros.
