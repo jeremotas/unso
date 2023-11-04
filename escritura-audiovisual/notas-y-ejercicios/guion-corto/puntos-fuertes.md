@@ -27,10 +27,12 @@
   * Se repite.
 
 * Segundo giro
-  * Tomarse el día para anotarse en la facultad y hacer el trámite de título secundario.
-  * El jefe no lo deja ir.
+  * Para anotarse en la universidad necesita el título del secundario legalizado.
+  * Solo atienden de 11 a 16hs.
 
 * Climax
+  * Tomarse el día para anotarse en la facultad y hacer el trámite de título secundario.
+  * El jefe no lo deja ir, "¿A donde vas?", "No vas a trabajar en ningún otro lugar. Me voy a ocupar que nadie te tome."
   * Renuncia al trabajo.
 
 * Final
