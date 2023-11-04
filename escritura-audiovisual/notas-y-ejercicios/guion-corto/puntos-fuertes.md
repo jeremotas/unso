@@ -18,7 +18,7 @@
   * Vuelve a su casa y se le había roto la computadora porque se filtró agua en el techo por las lluvias a la noche. 
 
 * Primer giro
-  * Consigue laburo, rappi de noche, mozo en un hotel ***** de dia. 
+  * Consigue laburo, rappi de noche, mozo en un bar de mala muerte de dia. 
 
 * Punto medio
   * Jefe que lo caga a pedos todo el tiempo por no cumplir en tiempo y forma.
@@ -32,7 +32,7 @@
 
 * Climax
   * Tomarse el día para anotarse en la facultad y hacer el trámite de título secundario.
-  * El jefe no lo deja ir, "¿A donde vas?", "No vas a trabajar en ningún otro lugar. Me voy a ocupar que nadie te tome."
+  * El jefe no lo deja ir, "¿A donde vaaas?", "¿Pero vos quién te crees que sos?"
   * Renuncia al trabajo.
 
 * Final
