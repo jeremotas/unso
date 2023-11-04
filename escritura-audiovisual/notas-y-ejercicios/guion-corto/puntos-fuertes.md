@@ -5,8 +5,6 @@
   * Entrega de diplomas colegio
   * Autobus a Bariloche (?)
 
-  
-  * Caliente se va a jugar al futbol.
   * Un grupo de amigos terminan un partido de futbol, comparten un agua congelada. 
   * Charla informal con el programador (otro equipo), no tenés las condiciones que necesitás (te faltan recursos).
 
@@ -20,7 +18,7 @@
   * Vuelve a su casa y se le había roto la computadora porque se filtró agua en el techo por las lluvias a la noche. 
 
 * Primer giro
-  * Consigue laburo, rappi de dia, mozo en un hotel de noche. 
+  * Consigue laburo, rappi de noche, mozo en un hotel ***** de dia. 
 
 * Punto medio
   * Jefe que lo caga a pedos todo el tiempo por no cumplir en tiempo y forma.
@@ -29,15 +27,14 @@
   * Se repite.
 
 * Segundo giro
-  * 
+  * Tomarse el día para anotarse en la facultad y hacer el trámite de título secundario.
+  * El jefe no lo deja ir.
 
 * Climax
-  * El programador hablado de inclusión en la programación con otros colegas en el hotel donde trabaja el personaje.
-  * Enfrentamiento y exposición de la doble vara.
   * Renuncia al trabajo.
 
 * Final
-  * Aplica a una beca. 
+  * Aplica a una beca y deja de trabajar en Rappi.
   * Llega la casa a buscar el DNI y el analítico. Mira google maps de la UNSO.
 
 
