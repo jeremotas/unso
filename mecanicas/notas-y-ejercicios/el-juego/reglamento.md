@@ -19,8 +19,9 @@
 * De igual manera si se juegan dos o tres cartas que deben si o sí formar un juego.
 * Al momento de armar 3 en linea ortogonal, se marca en el tablero y se gana un punto. Estas posiciones no pueden volver a ser utilizadas otra vez en otro juego.
 * Al hacer un juego, el rival roba 2 cartas e inicia su turno tomando una carta más.
+* El comodin funciona como cualquier carta.
 
 ## Fin del juego
 
-* El juego termina cuando no se pueden jugar más cartas o no quedan posibles juegos por formarse.
+* El juego termina cuando un jugador no puede levantar una carta del mazo.
 * El ganador es el que tiene más puntos.

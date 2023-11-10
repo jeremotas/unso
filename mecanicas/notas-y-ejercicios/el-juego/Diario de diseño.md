@@ -30,7 +30,7 @@ intercambiar cartas
 mas jugadores
 colores por jugador
 3 en linea ortogonal
-
+1
 
 ### 2023-11-02
 Nombre: Trichón
@@ -44,3 +44,10 @@ En la prueba sienten que es timing, suerte, no que están desarrollando una estr
 Fin más corto.
 Mazo de 40.
 Quitar numeros.
+
+Se agrega el ciclo de retroalimentacion +2 cartas
+
+### 2023-11-09
+El juego resulta lento y premia la inaccion.
+Se cambia a que el juego termina cuando se acaba el mazo.
+Se agregan comodines como cualquier carta.
