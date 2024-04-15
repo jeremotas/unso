@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=3 uid="uid://cy5o1x78h07dk"]
+
+[ext_resource type="Script" path="res://pocho.gd" id="1_bmjau"]
+[ext_resource type="Texture2D" uid="uid://bqcqmodugj43y" path="res://assets/pocho-sprite.png" id="1_jh1ha"]
+[ext_resource type="Script" path="res://GritoWrapper.gd" id="3_11yv0"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_q3t7i"]
+font_size = 30
+
+[node name="PochoLepratti" type="CharacterBody2D"]
+modulate = Color(1, 1, 1, 0.54902)
+motion_mode = 1
+script = ExtResource("1_bmjau")
+
+[node name="Pocho-sprite" type="Sprite2D" parent="."]
+position = Vector2(-1, -4)
+texture = ExtResource("1_jh1ha")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-14, 5, -35, 7, -42, 10, -43, 13, -7, 13, -4, 7, 0, 9, 2, 14, 37, 13, 36, 9, 27, 5, 14, 5, 8, 6)
+
+[node name="GritoWrapper" type="Node2D" parent="."]
+script = ExtResource("3_11yv0")
+
+[node name="grito" type="Label" parent="GritoWrapper"]
+offset_left = 10.0
+offset_top = -84.0
+offset_right = 138.0
+offset_bottom = -61.0
+label_settings = SubResource("LabelSettings_q3t7i")

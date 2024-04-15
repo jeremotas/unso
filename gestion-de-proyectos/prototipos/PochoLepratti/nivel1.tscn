@@ -1,0 +1,108 @@
+[gd_scene load_steps=8 format=3 uid="uid://bad0utnsutb0g"]
+
+[ext_resource type="PackedScene" uid="uid://cy5o1x78h07dk" path="res://pocho.tscn" id="1_44e18"]
+[ext_resource type="Script" path="res://nivel1.gd" id="1_uyeir"]
+[ext_resource type="PackedScene" uid="uid://bfox66lxeaeik" path="res://policia.tscn" id="2_lbprw"]
+[ext_resource type="PackedScene" uid="uid://ckih56mmnb4ai" path="res://pibes.tscn" id="3_h50yl"]
+[ext_resource type="Texture2D" uid="uid://ckx2fryskc42k" path="res://assets/llegada.png" id="5_p4oo0"]
+[ext_resource type="AudioStream" uid="uid://b3jjvfl66tstd" path="res://audios/el_angel_de_la_bicicleta.mp3" id="6_0fvxi"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bea88"]
+size = Vector2(72, 117)
+
+[node name="Nivel1" type="Node2D"]
+script = ExtResource("1_uyeir")
+
+[node name="PochoLepratti" parent="." instance=ExtResource("1_44e18")]
+position = Vector2(586, 312)
+
+[node name="Policia" parent="." instance=ExtResource("2_lbprw")]
+position = Vector2(222, 29)
+rotation = -0.560251
+
+[node name="Policia2" parent="." instance=ExtResource("2_lbprw")]
+position = Vector2(383, 30)
+
+[node name="Policia3" parent="." instance=ExtResource("2_lbprw")]
+position = Vector2(682, 28)
+
+[node name="Policia4" parent="." instance=ExtResource("2_lbprw")]
+position = Vector2(894, 33)
+rotation = 0.39968
+
+[node name="pibes" parent="." instance=ExtResource("3_h50yl")]
+position = Vector2(1069, 523)
+
+[node name="marker_inicio" type="Marker2D" parent="."]
+position = Vector2(1261, 523)
+
+[node name="marker_llegada" type="Marker2D" parent="."]
+position = Vector2(-20, 520)
+
+[node name="Llegada" type="Area2D" parent="."]
+position = Vector2(32, 500)
+
+[node name="zona_llegada" type="CollisionShape2D" parent="Llegada"]
+position = Vector2(-23, 15.5)
+shape = SubResource("RectangleShape2D_bea88")
+
+[node name="Llegada2" type="Sprite2D" parent="Llegada"]
+position = Vector2(3, 18)
+scale = Vector2(1.47, 1.53)
+texture = ExtResource("5_p4oo0")
+
+[node name="background_music" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("6_0fvxi")
+volume_db = 3.302
+autoplay = true
+
+[node name="HUD" type="CanvasLayer" parent="."]
+
+[node name="PibesSalvados" type="Label" parent="HUD"]
+anchors_preset = -1
+anchor_left = 0.017
+anchor_top = 0.914
+anchor_right = 0.017
+anchor_bottom = 0.937
+offset_left = -0.584002
+offset_top = -9.27203
+offset_right = 306.416
+offset_bottom = -1.17603
+text = "0 pibes salvados"
+
+[node name="BalasDisparadas" type="Label" parent="HUD"]
+anchors_preset = -1
+anchor_top = 0.954
+anchor_bottom = 0.954
+offset_left = 973.0
+offset_top = -606.192
+offset_right = 1169.0
+offset_bottom = -583.192
+text = "0 balas disparadas"
+
+[node name="Policia" type="Label" parent="HUD"]
+offset_left = 512.0
+offset_top = 11.0
+offset_right = 655.0
+offset_bottom = 44.0
+text = "Policia"
+horizontal_alignment = 1
+
+[node name="Escuela" type="Label" parent="HUD"]
+anchors_preset = -1
+anchor_left = 0.459
+anchor_top = 0.968
+anchor_right = 0.459
+anchor_bottom = 0.968
+offset_left = 25.232
+offset_top = -11.264
+offset_right = 83.232
+offset_bottom = 11.736
+text = "Escuela"
+
+[connection signal="balaDisparada" from="Policia" to="." method="_on_policia_bala_disparada"]
+[connection signal="balaDisparada" from="Policia2" to="." method="_on_policia_2_bala_disparada"]
+[connection signal="balaDisparada" from="Policia3" to="." method="_on_policia_3_bala_disparada"]
+[connection signal="balaDisparada" from="Policia4" to="." method="_on_policia_4_bala_disparada"]
+[connection signal="salvados" from="pibes" to="." method="_on_pibes_salvados"]
+[connection signal="body_entered" from="Llegada" to="pibes" method="_on_llegada_body_entered"]

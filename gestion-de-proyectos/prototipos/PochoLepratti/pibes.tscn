@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://ckih56mmnb4ai"]
+
+[ext_resource type="Texture2D" uid="uid://davbtsby6hje" path="res://assets/pibes.png" id="1_atpqw"]
+[ext_resource type="Script" path="res://pibes.gd" id="1_skpmb"]
+
+[node name="pibes" type="CharacterBody2D"]
+motion_mode = 1
+script = ExtResource("1_skpmb")
+
+[node name="Pibes" type="Sprite2D" parent="."]
+position = Vector2(6, 6)
+texture = ExtResource("1_atpqw")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-44, 13, -31, 14, -38, 4, -37, -5, -28, -10, -25, -12, 9, -11, 11, -7, 16, 4, 15, 10, 7, 15, 30, 14, 23, 9, 23, -1, 32, -9, 34, -13, 54, -12, 53, -10, 52, -8, 38, -8, 48, -2, 47, 5, 41, 14, 39, 17, 37, 20, 1, 20, -1, 15, -7, 5, -8, -6, 0, -6, -16, -7, -14, 0, -18, 12, -24, 15, -23, 18, -37, 20, -44, 19)
+
+[node name="WalkSpeedTimer" type="Timer" parent="."]
+autostart = true
+
+[connection signal="timeout" from="WalkSpeedTimer" to="." method="_on_walk_speed_timer_timeout"]
