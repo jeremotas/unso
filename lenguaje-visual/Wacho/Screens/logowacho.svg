@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="logowacho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6792579"
+     inkscape:cx="524.63651"
+     inkscape:cy="516.00174"
+     inkscape:window-width="3840"
+     inkscape:window-height="2091"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <rect
+       x="513.08982"
+       y="561.73424"
+       width="834.42899"
+       height="55.726609"
+       id="rect109" />
+    <filter
+       inkscape:label="Blotting Paper"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on blotting paper"
+       height="1.763009"
+       y="-0.38150449"
+       width="1.2479237"
+       x="-0.12396184"
+       style="color-interpolation-filters:sRGB;"
+       id="filter36">
+      <feGaussianBlur
+         stdDeviation="3"
+         in="SourceGraphic"
+         result="result1"
+         id="feGaussianBlur34" />
+      <feTurbulence
+         type="turbulence"
+         baseFrequency="0.05"
+         numOctaves="5"
+         result="result0"
+         id="feTurbulence34" />
+      <feDisplacementMap
+         in2="result0"
+         in="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result2"
+         id="feDisplacementMap34" />
+      <feBlend
+         result="result5"
+         in="result2"
+         mode="multiply"
+         in2="result2"
+         id="feBlend34" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="result2"
+         result="result4"
+         id="feGaussianBlur35" />
+      <feComposite
+         operator="arithmetic"
+         in2="result5"
+         in="result4"
+         k2="0.25"
+         k3="1"
+         k1="1"
+         id="feComposite35" />
+      <feComposite
+         operator="in"
+         in2="result2"
+         id="feComposite36" />
+    </filter>
+    <filter
+       y="-0.47497311"
+       width="1.2473297"
+       height="1.810856"
+       x="-0.13819163"
+       inkscape:label="Air Spray"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Convert to small scattered particles with some thickness"
+       style="color-interpolation-filters:sRGB;"
+       id="filter52">
+      <feMorphology
+         result="result1"
+         radius="2.4"
+         operator="dilate"
+         id="feMorphology48" />
+      <feTurbulence
+         baseFrequency="0.09 0.028"
+         numOctaves="1"
+         id="feTurbulence48" />
+      <feColorMatrix
+         result="result2"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix48" />
+      <feDisplacementMap
+         result="result4"
+         scale="10.319410319410318"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1"
+         in2="result2"
+         id="feDisplacementMap48" />
+      <feFlood
+         result="result3"
+         flood-opacity="1"
+         flood-color="rgb(255,159,54)"
+         id="feFlood48" />
+      <feMorphology
+         radius="3.8"
+         result="result7"
+         in="result4"
+         id="feMorphology49" />
+      <feGaussianBlur
+         result="result7"
+         in="result7"
+         stdDeviation="2.4"
+         id="feGaussianBlur49" />
+      <feComposite
+         result="result5"
+         in2="result4"
+         in="result3"
+         operator="in"
+         id="feComposite49" />
+      <feComposite
+         operator="out"
+         in2="result7"
+         id="feComposite50" />
+      <feOffset
+         result="result6"
+         dy="-7"
+         dx="-4.5"
+         id="feOffset50" />
+      <feGaussianBlur
+         result="result7"
+         stdDeviation="4.8"
+         id="feGaussianBlur50" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result6"
+         id="feComposite51" />
+      <feComposite
+         in2="result7"
+         id="feComposite52"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix64" />
+      <feGaussianBlur
+         id="feGaussianBlur64"
+         stdDeviation="0.01"
+         result="result1"
+         in="fbSourceGraphic" />
+      <feBlend
+         id="feBlend64"
+         in2="result1"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feTurbulence
+         id="feTurbulence64"
+         baseFrequency="0.8"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap64"
+         in="fbSourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="50"
+         result="result2"
+         in2="result3" />
+      <feMorphology
+         id="feMorphology64"
+         radius="1"
+         operator="dilate"
+         result="result4" />
+      <feBlend
+         id="feBlend65"
+         mode="screen"
+         in2="result2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter62"
+       x="-0.027114866"
+       y="-0.024413971"
+       width="1.0542297"
+       height="1.0488279">
+      <feColorMatrix
+         values="2 -0.5 -0.5 0 0 -0.5 2 -0.5 0 0 -0.5 -0.5 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix62" />
+    </filter>
+    <filter
+       inkscape:label="Cool Outside"
+       inkscape:menu="Morphology"
+       inkscape:menu-tooltip="Blurred colorized contour, empty inside"
+       style="color-interpolation-filters:sRGB;"
+       id="filter68"
+       x="-0.03099046"
+       y="-0.095376122"
+       width="1.0748936"
+       height="1.2304923">
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result1"
+         id="feGaussianBlur67" />
+      <feOffset
+         dx="2"
+         dy="2"
+         id="feOffset67" />
+      <feConvolveMatrix
+         result="result3"
+         order="3 3"
+         kernelMatrix="2 0 0 0 8 0 4 0 -4 "
+         divisor="2"
+         bias="0"
+         targetX="0"
+         id="feConvolveMatrix67" />
+      <feComposite
+         operator="xor"
+         result="result2"
+         in="result3"
+         in2="result1"
+         id="feComposite67" />
+      <feColorMatrix
+         values="91.7"
+         result="fbSourceGraphic"
+         type="hueRotate"
+         id="feColorMatrix67" />
+      <feBlend
+         mode="multiply"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result3"
+         id="feBlend67" />
+      <feComposite
+         operator="in"
+         result="result6"
+         in="fbSourceGraphic"
+         in2="result4"
+         id="feComposite68" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       style="color-interpolation-filters:sRGB;"
+       id="filter109">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence109" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap109" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Brilliance"
+       id="filter62-0"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="2 -0.5 -0.5 0 0 -0.5 2 -0.5 0 0 -0.5 -0.5 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix62-3" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g110">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.8987px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-7.9375px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.74747;filter:url(#filter62)"
+         x="10.89052"
+         y="50.70573"
+         id="text1-4-6-8"
+         transform="matrix(1.1623348,0,0,1.2997948,0.36688662,1.5263643)"><tspan
+           sodipodi:role="line"
+           id="tspan1-3-1-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-7.9375px;word-spacing:0px;stroke-width:1.74747"
+           x="10.89052"
+           y="50.70573"
+           dx="0"
+           rotate="0 0 0 0 0 0">wacho</tspan></text>
+      <g
+         id="g52"
+         style="filter:url(#filter62)"
+         transform="translate(9.2149334,-19.057028)">
+        <text
+           style="font-size:79.8763px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-9.07052px;word-spacing:0px;fill:#ff0000;stroke:#000000;stroke-width:1.9969;filter:url(#filter62)"
+           x="142.42213"
+           y="82.501457"
+           id="text44">o</text>
+        <text
+           style="font-size:79.8763px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-9.07052px;word-spacing:0px;fill:#ff0000;stroke:#000000;stroke-width:1.9969"
+           x="54.452114"
+           y="82.501457"
+           id="text47">a</text>
+        <text
+           style="font-size:79.8763px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-9.07052px;word-spacing:0px;fill:#ff0000;stroke:#000000;stroke-width:1.9969"
+           x="86.677658"
+           y="82.501457"
+           id="text46">c</text>
+        <text
+           style="font-size:79.8763px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-9.07052px;word-spacing:0px;fill:#ff0000;stroke:#000000;stroke-width:1.9969"
+           x="111.47467"
+           y="82.501457"
+           id="text45">h</text>
+        <text
+           style="font-size:79.8763px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-9.07052px;word-spacing:0px;fill:#ff0000;stroke:#000000;stroke-width:1.9969;filter:url(#filter62)"
+           x="3.4555945"
+           y="82.501457"
+           id="text48"><tspan
+             style="fill:#ffff00"
+             id="tspan65">w</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.8987px;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-7.9375px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.74747;filter:url(#filter62-0)"
+     x="12.989531"
+     y="142.53313"
+     id="text1-4-6-8-4"><tspan
+       sodipodi:role="line"
+       id="tspan1-3-1-4-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';letter-spacing:-7.9375px;word-spacing:0px;stroke-width:1.74747"
+       x="12.989531"
+       y="142.53313"
+       rotate="0 0 0 0 0 0">wacho</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="scale(0.26458333)"
+     id="text109"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect109)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     x="126.37286"
+     y="166.71526"
+     id="text110"><tspan
+       sodipodi:role="line"
+       id="tspan110"
+       style="stroke-width:0.264583" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3516px;line-height:1.25;font-family:'groOvEd PERSONAL USE';-inkscape-font-specification:'groOvEd PERSONAL USE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13379"
+     x="32.921936"
+     y="206.45345"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3516px;font-family:'groOvEd PERSONAL USE';-inkscape-font-specification:'groOvEd PERSONAL USE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.13379"
+       x="32.921936"
+       y="206.45345">WACHO</tspan></text>
+</svg>
